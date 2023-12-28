@@ -213,8 +213,8 @@ function CallGenrate() {
         </div>
 
         <div className='flex mt-6 gap-3 sm:gap-7 mb-14'>
-          <button type="button" className="focus:outline-none text-white bg-[#C64242]  font-medium rounded-lg text-[14px] sm:text-sm px-6 sm:px-16 py-2.5 me-2 mb-2 transition-all duration-1000">Cancel</button>
-          <button type="button" className="focus:outline-none text-white bg-[#42C661]  font-medium rounded-lg text-[14px] sm:text-sm px-6 sm:px-16 py-2.5 me-2 mb-2 transition-all duration-1000">post call</button>
+          <button type="button" className="focus:outline-none text-white bg-[#C64242]  font-medium rounded-lg text-[10px] sm:text-sm px-6 sm:px-16 py-2.5 me-2 mb-2 transition-all duration-1000">Cancel</button>
+          <button type="button" className="focus:outline-none text-white bg-[#42C661]  font-medium rounded-lg text-[10px] sm:text-sm px-6 sm:px-16 py-2.5 me-2 mb-2 transition-all duration-1000">post call</button>
 
         </div>
 
